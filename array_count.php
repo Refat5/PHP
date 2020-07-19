@@ -1,4 +1,6 @@
 <?php 
+
+//We can count the number of things in an array
 $company = [
     'Google',
     'Microsoft',
